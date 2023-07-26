@@ -65,3 +65,67 @@ public class ATM_MAHINE {
         }
     }
 }
+//OUTPUT
+/*  
+Enter Your pin number
+1234
+Enter Your Name
+KEERTHIVASAN
+Welcome KEERTHIVASAN
+Press 1 to check your balance
+Press 2 to add amount
+Press 3 to take amount
+Press 4 to take receipt
+Press 5 to exit
+1
+Your current Balance is: 10000
+Press 1 to check your balance
+Press 2 to add amount
+Press 3 to take amount
+Press 4 to take receipt
+Press 5 to exit
+2
+Enter the Amount you want to deposit: 
+10000
+Deposited Successfully!
+Press 1 to check your balance
+Press 2 to add amount
+Press 3 to take amount
+Press 4 to take receipt
+Press 5 to exit
+1
+Your current Balance is: 20000
+Press 1 to check your balance
+Press 2 to add amount
+Press 3 to take amount
+Press 4 to take receipt
+Press 5 to exit
+3
+Enter the Amount You Want To Withdraw:
+10000
+Withdrawal Successful!
+Press 1 to check your balance
+Press 2 to add amount
+Press 3 to take amount
+Press 4 to take receipt
+Press 5 to exit
+1
+Your current Balance is: 10000
+Press 1 to check your balance
+Press 2 to add amount
+Press 3 to take amount
+Press 4 to take receipt
+Press 5 to exit
+4
+Welcome to All-in-One mini ATM
+Available balance is 10000
+Thanks for Coming
+Press 1 to check your balance
+Press 2 to add amount
+Press 3 to take amount
+Press 4 to take receipt
+Press 5 to exit
+5
+Thank you. Exiting...
+
+*/  
